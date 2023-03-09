@@ -35,6 +35,9 @@ Single-center, multi-site, retrospective cohort analysis of 80,387 adult ED visi
 3. Logistic Regression offers accuracy of **83.80%**
 4. Random Forest Classifier offers accuracy of **82.23%**
 
+![image](https://user-images.githubusercontent.com/90405126/224119413-3100429c-7686-4663-ad5c-6a81f171fe56.png)
+
+
 **Consumer Use Cases:**
 1. Hospitals and clinics: Healthcare facilities can use UTI detection systems to screen patients for UTIs. This can help to quickly identify patients who may require treatment and prevent the spread of infections.
 2. Home testing: UTI detection systems can also be used at home by individuals who suspect they may have a UTI. This can provide a quick and convenient way for people to monitor their health and seek treatment if necessary.
