@@ -35,6 +35,20 @@ Single-center, multi-site, retrospective cohort analysis of 80,387 adult ED visi
 3. Logistic Regression offers accuracy of **83.80%**
 4. Random Forest Classifier offers accuracy of **82.23%**
 
+**Consumer Use Cases:**
+1. Hospitals and clinics: Healthcare facilities can use UTI detection systems to screen patients for UTIs. This can help to quickly identify patients who may require treatment and prevent the spread of infections.
+2. Home testing: UTI detection systems can also be used at home by individuals who suspect they may have a UTI. This can provide a quick and convenient way for people to monitor their health and seek treatment if necessary.
+3. Nursing homes and assisted living facilities: Residents in long-term care facilities are at a higher risk for UTIs due to underlying medical conditions and age-related changes. UTI detection systems can be used in these settings to monitor residents and detect infections early.
+4. Women's health clinics: UTIs are more common in women than men due to differences in anatomy. Women's health clinics can use UTI detection systems to screen patients for UTIs and provide appropriate treatment.
+5. Research studies: UTI detection systems can be used in research studies to collect data on the prevalence and incidence of UTIs, as well as risk factors and treatment outcomes. This can help to improve our understanding of UTIs and inform the development of new treatment options.
+
+
+UTIs are more common in women than in men. According to the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), more than 50% of women will have at least one UTI in their lifetime, and many will have multiple UTIs.UTIs can have serious consequences for women. If left untreated, UTIs can lead to kidney infections, which can cause permanent damage to the kidneys. UTIs can also cause premature labor in pregnant women.
+
+
+**Final video:**
+https://drive.google.com/file/d/13zRcrxtzX3mA7qkVbd5e9dRA9S0wmgCk/view?usp=sharing
+
 
 **Conclusion:**
 
