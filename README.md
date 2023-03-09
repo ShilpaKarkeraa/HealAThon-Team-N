@@ -31,8 +31,8 @@ Single-center, multi-site, retrospective cohort analysis of 80,387 adult ED visi
 
 **Algorithms Implemented:**
 1. XGBoost Classifier offers accuracy of **84.48%**
-2. LGBM Classifier offers accuracy of **84.22%**
-3. Logistic Regression offers accuracy of **82.83%**
+2. LGBM Classifier offers accuracy of **84.46%**
+3. Logistic Regression offers accuracy of **83.80%**
 4. Random Forest Classifier offers accuracy of **82.23%**
 
 
