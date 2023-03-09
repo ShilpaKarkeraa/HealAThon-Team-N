@@ -22,7 +22,7 @@ Our aim, was to train, validate, and compare machine-learning based predictive m
 
 **Dataset:**
 
-Single-center, multi-site, retrospective cohort analysis of 80,387 adult ED visits with urine culture results and UTI symptoms expanded to 220 attributes. You will find the raw dataset here: https://drive.google.com/file/d/1cZELC8VivTegNDKi3Ygp2rbzxaCxmVQB/view?usp=sharing
+Single-center, multi-site, retrospective cohort analysis of 80,387 adult ED visits with urine culture results and UTI symptoms expanded to 220 attributes. You will find the raw dataset here: https://drive.google.com/file/d/1cZELC8VivTegNDKi3Ygp2rbzxaCxmVQB/view?usp=share_link
 
 
 **Steps of Implementation:**
